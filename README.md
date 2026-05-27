@@ -10,15 +10,15 @@
 
 ---
 
-I'm an aerospace engineering student with a passion for hands-on projects and problem-solving through code. I love working with Arduino and embedded systems, have strong skills in Python, and I'm currently diving into C. When I'm not studying, I'm exploring tech, PCs, and finding creative ways to merge software with hardware.
+I'm an aerospace engineering student with a passion for hands-on projects and problem-solving through code. I love working with Arduino and embedded systems, have strong skills in Python, and I'm constantly exploring the intersection of aerospace engineering and software development.
 
 ---
 
 ## 📌 About Me
 
-- 🚀 **Currently:** Exploring aerospace + software intersections
+- 🚀 **Currently:** Building aerospace simulations and exploring aerospace + software intersections
 - 🎓 **Learning:** Advanced C, Blender, Fusion360
-- 💻 **Building:** Python, Arduino, Node.js projects
+- 💻 **Building:** Python, Arduino, Node.js, React Three Fiber projects
 - 📧 **Reach me:** rithinroy2000@gmail.com
 
 ---
@@ -38,6 +38,14 @@ I'm an aerospace engineering student with a passion for hands-on projects and pr
 
 ---
 
+## 💡 Featured Projects
+
+- **[Orbital Debris Simulation](https://github.com/Programmer7189/orbital-debris-simulation)** - A React Three Fiber visualization tool for monitoring orbital debris, built for aerospace presentations. Features interactive 3D visualization of space debris dynamics.
+
+More projects coming soon... 🚀
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -51,12 +59,6 @@ I'm an aerospace engineering student with a passion for hands-on projects and pr
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Featured Projects
-
-Coming soon... 🚀
 
 ---
 
