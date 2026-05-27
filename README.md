@@ -10,6 +10,10 @@
 
 ---
 
+I'm an aerospace engineering student with a passion for hands-on projects and problem-solving through code. I love working with Arduino and embedded systems, have strong skills in Python, and I'm currently diving into C. When I'm not studying, I'm exploring tech, PCs, and finding creative ways to merge software with hardware.
+
+---
+
 ## 📌 About Me
 
 - 🚀 **Currently:** Exploring aerospace + software intersections
